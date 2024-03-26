@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adisl/Downloads/sem2/LAB/output/lab4_Aduguna_2702261422'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _hashFunction, symObjAddr: 0x0, symBinAddr: 0x100003890, symSize: 0x8C }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _Medicine, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xBC, offset: 0xBC, size: 0x8, addend: 0x0, symName: _hashFunction, symObjAddr: 0x0, symBinAddr: 0x100003890, symSize: 0x8C }
+  - { offsetInCU: 0x10E, offset: 0x10E, size: 0x8, addend: 0x0, symName: _insertMedicine, symObjAddr: 0x8C, symBinAddr: 0x10000391C, symSize: 0x54 }
+  - { offsetInCU: 0x14E, offset: 0x14E, size: 0x8, addend: 0x0, symName: _viewMedicine, symObjAddr: 0xE0, symBinAddr: 0x100003970, symSize: 0x148 }
+  - { offsetInCU: 0x1B8, offset: 0x1B8, size: 0x8, addend: 0x0, symName: _removeMedicine, symObjAddr: 0x228, symBinAddr: 0x100003AB8, symSize: 0x17C }
+  - { offsetInCU: 0x222, offset: 0x222, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3A4, symBinAddr: 0x100003C34, symSize: 0x190 }
+...

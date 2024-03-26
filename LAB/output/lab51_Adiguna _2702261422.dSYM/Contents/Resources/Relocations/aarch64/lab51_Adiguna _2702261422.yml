@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adisl/Downloads/sem2/LAB/output/lab51_Adiguna _2702261422'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _newNodeCreate, symObjAddr: 0x0, symBinAddr: 0x100002408, symSize: 0x84 }
+  - { offsetInCU: 0xD5, offset: 0xD5, size: 0x8, addend: 0x0, symName: _newNodeCreate, symObjAddr: 0x0, symBinAddr: 0x100002408, symSize: 0x84 }
+  - { offsetInCU: 0x127, offset: 0x127, size: 0x8, addend: 0x0, symName: _searchNode, symObjAddr: 0x84, symBinAddr: 0x10000248C, symSize: 0xAC }
+  - { offsetInCU: 0x15D, offset: 0x15D, size: 0x8, addend: 0x0, symName: _insertNode, symObjAddr: 0x130, symBinAddr: 0x100002538, symSize: 0xE8 }
+  - { offsetInCU: 0x1AF, offset: 0x1AF, size: 0x8, addend: 0x0, symName: _inOrder, symObjAddr: 0x218, symBinAddr: 0x100002620, symSize: 0xF0 }
+  - { offsetInCU: 0x1D3, offset: 0x1D3, size: 0x8, addend: 0x0, symName: _deleteNode, symObjAddr: 0x308, symBinAddr: 0x100002710, symSize: 0x1A8 }
+  - { offsetInCU: 0x25D, offset: 0x25D, size: 0x8, addend: 0x0, symName: _findMin, symObjAddr: 0x4B0, symBinAddr: 0x1000028B8, symSize: 0x6C }
+  - { offsetInCU: 0x285, offset: 0x285, size: 0x8, addend: 0x0, symName: _validatePhoneNumber, symObjAddr: 0x51C, symBinAddr: 0x100002924, symSize: 0xC8 }
+  - { offsetInCU: 0x2D7, offset: 0x2D7, size: 0x8, addend: 0x0, symName: _validateName, symObjAddr: 0x5E4, symBinAddr: 0x1000029EC, symSize: 0x198 }
+  - { offsetInCU: 0x345, offset: 0x345, size: 0x8, addend: 0x0, symName: _validateEmail, symObjAddr: 0x77C, symBinAddr: 0x100002B84, symSize: 0x134 }
+  - { offsetInCU: 0x3A5, offset: 0x3A5, size: 0x8, addend: 0x0, symName: _buyProduct, symObjAddr: 0x8B0, symBinAddr: 0x100002CB8, symSize: 0x700 }
+  - { offsetInCU: 0x463, offset: 0x463, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xFC4, symBinAddr: 0x1000033CC, symSize: 0x54C }
+...
